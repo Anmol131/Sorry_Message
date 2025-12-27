@@ -115,7 +115,7 @@ const ForgiveButton = ({ onForgive, onReject, onBack, canGoBack }) => {
         </h2>
         
         <p className="text-base sm:text-lg md:text-xl text-gray-700 mb-8 sm:mb-12 leading-relaxed px-2">
-          I know I don't deserve it, but I'm asking anyway. 
+           I'm asking anyway beacasue I love you
           I promise to do better, to be better, for you.
         </p>
 

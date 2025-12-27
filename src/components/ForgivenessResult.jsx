@@ -73,21 +73,21 @@ const ForgivenessResult = ({ onBack, canGoBack }) => {
       title: "Iris",
       artist: "Goo Goo Dolls",
       url: iris,
-      description: "A special song for you"
+      description: "It reminds of you❤️"
     },
     {
       id: 2,
       title: "Teenage Dream",
       artist: "Stephen Dawes",
       url: teenageDream,
-      description: "Our favorite melody"
+      description: "Just for you❤️"
     },
     {
       id: 3,
       title: "Every Breath You Take",
       artist: "The Police",
       url: everyBreath,
-      description: "Just for you ❤️"
+      description: "Wana dance in this song❤️"
     }
   ];
 

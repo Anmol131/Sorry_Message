@@ -51,7 +51,7 @@ const memories = [
     id: 1,
     title: "Our Anniversary",
     caption: "Date: Ashoj 6, 2082",
-    details: "I still remember the day you keep waitin me for a day for you decison. I still remember that getting our relationship was like filling the conract. I am like this that and its on you hand to decide huhu I still remeber. And after a day you finally give me the answer you. It was the best dy of my life. Huhu i still remeber and love you so much. I love you so much.",
+    details: "I still remember the day you keep me waiting for a whole day for you decison. I still remember that getting into relationship was like filling the conract. I am like this that and its on you hand to decide either you chosse me or not huhu I still remeber.  I was waiting and keep asking for the decsion and you were saying like let me think. It was the best day of my life. And after a day you finally give me the answer that you are ready and the answer is Yes. Huhu i still remeber and love you so much. I love you so much.",
     emoji: "🌹",
     required: true
   },
